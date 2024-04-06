@@ -1,0 +1,33 @@
+body {
+    background: #f2c0e2;
+ }
+ 
+ 
+ div {
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+ }
+ .rEye {fill: none;stroke: #000000;stroke-width: 3;}
+ .nose {fill: #FFCCE6;}
+ .muzzle {fill: none; stroke: #000;}
+ .orangeCatColor {fill: #ebe4d5;stroke: #96928e;stroke-width: 3;}
+ .stripes {fill: #96928e;}
+ .rArm {fill: #ebe4d5;stroke: #96928e;stroke-width: 3;}
+ .mouth {fill: none;stroke: #000000;stroke-width: 2;}
+ .eye {fill: none; stroke: #000000; stroke-width: 3;}
+ 
+ h1{
+    text-align: center;
+ }
+
+ h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    
+}
